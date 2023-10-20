@@ -2,7 +2,9 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>header</div>
+    <div>
+        <h1>Translation Web with OpenAI</h1>
+    </div>
   )
 }
 
